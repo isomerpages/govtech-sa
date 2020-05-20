@@ -1,10 +1,10 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: SupplyAlly
+description: SupplyAlly
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: 
 sections:
     - hero:
         title: Hero title
@@ -28,4 +28,8 @@ sections:
         description: About a sentence worth of description here
         button: Button text
         url: /faq/
+    - resources:
+        title: Media
+        subtitle: Learn more
+        button: View More
 ---
