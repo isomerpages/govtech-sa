@@ -2,12 +2,28 @@
 title: Terms of Use
 permalink: /terms-of-use/
 ---
-### **General Terms and Conditions on the Use of the Isomer Pages Website**
+### **General**
 
-#### **General Legal Information**
+1. Welcome to SupplyAlly operated by the Government Technology Agency (“GovTech”). These Terms of Use (“Terms”) govern your use of SupplyAlly. Please read these Terms carefully as any non-compliance may result in civil or criminal liability
 
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
+2. By accessing and using any part of SupplyAlly, you agree to be bound by these Terms. You may access and use SupplyAlly in the manner permitted under these Terms. If you do not agree to these Terms, please do not use SupplyAlly.
 
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
+### **Use of SupplyAlly**
 
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
+3. Unless otherwise authorised by GovTech, we grant you a non-exclusive, limited, revocable, non-sub-licensable and non-transferable right to use SupplyAlly for your personal non-commercial use only.
+
+4. You agree that you will not, directly or indirectly —
+: a. modify, reverse-engineer, decompile, adapt, publish, redistribute or interfere with or intercept any transaction which is part of SupplyAlly;
+: b. use SupplyAlly for any commercial purpose or for the benefit of any third party (save where authorised by GovTech), including renting, selling, leasing or directly or indirectly charging others for the use of SupplyAlly;
+: c. remove, circumvent, impair, bypass, disable or otherwise interfere with any feature of SupplyAlly;
+: d. access, submit or use any data that is not yours, or which you are not validly authorised to access, submit or use;
+: e. misrepresent or make false or misleading claims regarding SupplyAlly;
+: f. use SupplyAlly for any illegal activity, unlawful purpose, or purposes prohibited by these Terms or in breach of these Terms;
+: g. use any device, software, exploits, or routine, including any virus, Trojan horse, worm, time bomb, robot, spider, data-mining or data scraping tool or cancel bot intended to damage or interfere with the proper operation of SupplyAlly or to intercept or expropriate any data from SupplyAlly;
+: h. use SupplyAlly in any manner that could damage, disrupt, disable, overburden, or impair the operation of SupplyAlly or interfere with any person’s use of SupplyAlly;
+: i. while using SupplyAlly, upload, post or transmit any material of any type that —
+:: i. is contrary to any law, statute or subsidiary legislation;
+:: ii. is false, offensive, defamatory, inaccurate, misleading or fraudulent; or
+:: iii. infringes or violates the rights of any person;
+: j. use SupplyAlly to access data not intended for you.
+5. You agree to comply with any and all guidelines, notices, operating rules and policies and instructions pertaining to the use of SupplyAlly, including any amendments to the foregoing, issued by GovTech from time to time, as well as any applicable laws and regulations.
