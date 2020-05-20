@@ -22,8 +22,8 @@ permalink: /terms-of-use/
 : g. use any device, software, exploits, or routine, including any virus, Trojan horse, worm, time bomb, robot, spider, data-mining or data scraping tool or cancel bot intended to damage or interfere with the proper operation of SupplyAlly or to intercept or expropriate any data from SupplyAlly;
 : h. use SupplyAlly in any manner that could damage, disrupt, disable, overburden, or impair the operation of SupplyAlly or interfere with any person’s use of SupplyAlly;
 : i. while using SupplyAlly, upload, post or transmit any material of any type that —
-: : i. is contrary to any law, statute or subsidiary legislation;
-: : ii. is false, offensive, defamatory, inaccurate, misleading or fraudulent; or
-: : iii. infringes or violates the rights of any person;
+  : i. is contrary to any law, statute or subsidiary legislation;
+  : ii. is false, offensive, defamatory, inaccurate, misleading or fraudulent; or
+  : iii. infringes or violates the rights of any person;
 : j. use SupplyAlly to access data not intended for you.
 5. You agree to comply with any and all guidelines, notices, operating rules and policies and instructions pertaining to the use of SupplyAlly, including any amendments to the foregoing, issued by GovTech from time to time, as well as any applicable laws and regulations.
