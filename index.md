@@ -9,9 +9,9 @@ sections:
     - hero:
         title: SupplyAlly helps you track whether a person receiving an item has received it before.
         subtitle: Enabled citizens to access their fair quota of masks, with flexibility to different points and modes of distribution.
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
+        background: /images/hero-banner-supplyally.png
+        button: Download Now
+        url: https://go.gov.sg/SupplyAlly
         key_highlights:
             - title: Highlight A
               description: Important highlight A is important
