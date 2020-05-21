@@ -335,25 +335,3 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
   }
 }
-
-// Custom
-.bg-hero {
-//   -webkit-background-size: contain !important;
-//   background-size: contain !important;
-  background-color: #EBF3F3 !important;
-}
-
-.bp-hero-body {
-  background: none;
-}
-
-.bp-hero {
-  h1 {
-    font-size: 48px;
-    letter-spacing: 0;
-    line-height: 1.3em;
-  }
-  h1, p {
-    color: #3F3D56;
-  }
-}
