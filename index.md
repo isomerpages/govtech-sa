@@ -7,7 +7,7 @@ permalink: /
 notification: 
 sections:
     - hero:
-        title: <font size="10">SupplyAlly helps you track whether a person receiving an item has received it before.</font>
+        title: <span style="font-size: 48px; letter-spacing: 0; line-height: 0 !important;">SupplyAlly helps you track whether a person receiving an item has received it before.</span>
         subtitle: Enabled citizens to access their fair quota of masks, with flexibility to different points and modes of distribution.
         background: /images/hero-banner.png
         button: Contact Us
