@@ -23,13 +23,9 @@ sections:
               description: Page A is important too
               url: /privacy/
     - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
-    - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
+        title: “Engineering Good is thankful for GovTech's partnership. With SupplyAlly we hope to eliminate duplication in our efforts and optimise the effort of our volunteers and the beneficiary organisations.”
+        subtitle: What our partners say
+        description: - Johann (Executive Director, Engineering Good)
+        button: 
+        url: 
 ---
