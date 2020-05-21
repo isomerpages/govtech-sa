@@ -31,7 +31,7 @@ Your QR code might have already been tied to another phone number, or the QR cod
 
 If you are unable to login with your QR Code, check with your organisation to get a replacement QR code. 
 
-If your organisation is unable to issue you a new QR code, please submit a request on Zendesk or email to supplyallyhelp [at] hive.gov.sg with the following information:
+If your organisation is unable to issue you a new QR code, please submit a request on Zendesk or email to <supplyallyhelp@hive.gov.sg> with the following information:
 * Your name
 * Number of users affected 
 * Your organisation or company
