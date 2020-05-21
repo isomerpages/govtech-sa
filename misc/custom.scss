@@ -338,9 +338,9 @@ $desktop: 960px + (2 * $gap) !default;
 
 // Custom
 .bg-hero {
-  -webkit-background-size: contain;
-  background-size: contain;
-  background-color: #F7FCFC;
+  -webkit-background-size: contain !important;
+  background-size: contain !important;
+  background-color: #F7FCFC !important;
 }
 
 .bp-hero-body {
