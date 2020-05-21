@@ -337,8 +337,8 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 // Custom
-#hero-banner-title {
+.bp-hero h1 {
   font-size: 48px;
   letter-spacing: 0;
-  line-height: 0 !important;
+  line-height: 0;
 }
