@@ -32,10 +32,6 @@ permalink: /media/
           </div>
         </a>
       </div>
-    </div>
-  </div>
-  <div class="bp-container padding--top padding--bottom--xl">
-    <div class="row is-multiline">
       <div class="col is-one-quarter-widescreen is-one-third-desktop is-half-tablet resource-card-element">
         <a href="https://medium.com/@leekahhow/bishan-north-volunteer-orientation-for-reusable-mask-distribution-816e22447320" class="is-media-card">
           <div class="media-card-plain bg-media-color-2 padding--lg">
