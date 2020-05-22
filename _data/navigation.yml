@@ -4,12 +4,16 @@
 #                                #
 ##################################
 
-logo: /images/isomer-logo.svg
+logo: /images/logo-supplyally.svg
 
 links:
+  - title: How does SupplyAlly work?
+    url: 
+  - title: Features of SupplyAlly
+    url: /features
+  - title: FAQ
+    url: /faq
+  - title: Media
+    url: /media
   - title: Contact Us
-    url: /contact-us/
-  - title: About
-    url: /about/
-  - title: User Guide
-    collection: user-guide
+    url: /contact-us
