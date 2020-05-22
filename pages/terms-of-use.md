@@ -4,7 +4,7 @@ permalink: /terms-of-use/
 ---
 ### **General**
 
-1. Welcome to SupplyAlly operated by the Government Technology Agency (“GovTech”). These Terms of Use (“Terms”) govern your use of SupplyAlly. Please read these Terms carefully as any non-compliance may result in civil or criminal liability
+1. Welcome to SupplyAlly provided by the Government Technology Agency (“GovTech”). These Terms of Use (“Terms”) govern your use of SupplyAlly. Please read these Terms carefully as any non-compliance may result in civil or criminal liability.
 
 2. By accessing and using any part of SupplyAlly, you agree to be bound by these Terms. You may access and use SupplyAlly in the manner permitted under these Terms. If you do not agree to these Terms, please do not use SupplyAlly.
 
@@ -16,7 +16,7 @@ permalink: /terms-of-use/
 : a. modify, reverse-engineer, decompile, adapt, publish, redistribute or interfere with or intercept any transaction which is part of SupplyAlly;
 : b. use SupplyAlly for any commercial purpose or for the benefit of any third party (save where authorised by GovTech), including renting, selling, leasing or directly or indirectly charging others for the use of SupplyAlly;
 : c. remove, circumvent, impair, bypass, disable or otherwise interfere with any feature of SupplyAlly;
-: d. access, submit or use any data that is not yours, or which you are not validly authorised to access, submit or use;
+: d. access, submit or use any data which you are not validly authorised to access, submit or use;
 : e. misrepresent or make false or misleading claims regarding SupplyAlly;
 : f. use SupplyAlly for any illegal activity, unlawful purpose, or purposes prohibited by these Terms or in breach of these Terms;
 : g. use any device, software, exploits, or routine, including any virus, Trojan horse, worm, time bomb, robot, spider, data-mining or data scraping tool or cancel bot intended to damage or interfere with the proper operation of SupplyAlly or to intercept or expropriate any data from SupplyAlly;
@@ -26,6 +26,7 @@ permalink: /terms-of-use/
   : ii. is false, offensive, defamatory, inaccurate, misleading or fraudulent; or
   : iii. infringes or violates the rights of any person;
 : j. use SupplyAlly to access data not intended for you.
+
 5. You agree to comply with any and all guidelines, notices, operating rules and policies and instructions pertaining to the use of SupplyAlly, including any amendments to the foregoing, issued by GovTech from time to time, as well as any applicable laws and regulations.
 
 ### **Disclaimers against Warranty, Representation and Liability**
@@ -44,7 +45,7 @@ permalink: /terms-of-use/
 : g. any decision made or action taken by you or any third party in reliance upon SupplyAlly or any personal data or any other content made available or accessible via SupplyAlly; or
 : h. any virus or other malicious, destructive or corrupting code, programme or macro in SupplyAlly.
 
-8. You acknowledge that your use of SupplyAlly contains the possibility of human and machine errors, inaccuracies, omissions, delays, unavailability and losses, including the inadvertent loss of data which may give rise to loss or damage suffered by you, and you agree that you will not hold GovTech liable in any way whatsoever for the said loss or damage. You agree that you Use SupplyAlly at your own discretion and risk and that you will be responsible for any loss or damage suffered by you and to your device, or loss, damage to or corruption of data that results from the use of SupplyAlly.
+8. You acknowledge that your use of SupplyAlly contains the possibility of human and machine errors, inaccuracies, omissions, delays, unavailability and losses, including the inadvertent loss of data which may give rise to loss or damage suffered by you, and you agree that you will not hold GovTech liable in any way whatsoever for the said loss or damage. You agree that you use SupplyAlly at your own discretion and risk and that you will be responsible for any loss or damage suffered by you and to your device, or loss, damage to or corruption of data that results from the use of SupplyAlly.
 
 9. You will not rely on SupplyAlly to claim or assert any form of legitimate expectation against GovTech, whether or not arising out of or in connection with our roles and functions as a public authority.
 
@@ -57,17 +58,18 @@ permalink: /terms-of-use/
 12. GovTech reserves the right to –
 : a. update, enhance, upgrade, reduce, or otherwise modify or vary SupplyAlly, at any time, for any reason, with or without notice to you. These Terms will apply to all such updates, enhancements, upgrades, reductions, modifications or variations to SupplyAlly;
 : b. suspend the use of SupplyAlly, during times of maintenance (whether scheduled or unscheduled), without notice or liability to you whatsoever;
-: c. deny or restrict Use of SupplyAlly to you without ascribing any reasons and without liability to you whatsoever;
+: c. deny or restrict use of SupplyAlly to you without ascribing any reasons and without liability to you whatsoever;
 : d. discontinue or terminate SupplyAlly, at any time without notice or liability to you whatsoever, whereupon all rights granted to you under these Terms will also terminate immediately; and
 : e. if your use of SupplyAlly is in breach of these Terms, we may immediately disable your use of SupplyAlly without notice and to take all such action as we consider appropriate, desirable or necessary.
 
 13. GovTech retains the discretion in determining whether or not to provide maintenance and support services for SupplyAlly, and if so, the type and nature of such maintenance and support services.
 
+
 ### **Intellectual Property**
 
 14. You acknowledge that GovTech owns all titles, rights and interest, including intellectual property rights, in and to SupplyAlly, including any software therein. You will not do or permit any act which is directly or indirectly likely to limit our titles, rights or interest in and to the same. Unless otherwise expressly permitted by law, you agree not to modify, adapt, translate, prepare derivative works from, or decompile, reverse engineer, disassemble or otherwise attempt to derive source code from, SupplyAlly. Without limiting the foregoing, you will not use in any way and will not reproduce any trademark, logo, trade name and similar mark that is associated with SupplyAlly, without GovTech’s prior written consent.
 
-15. GovTech does not represent or warrant that the Use of SupplyAlly by you will not constitute an infringement or misuse of any third party right, including intellectual property rights.
+15. GovTech does not represent or warrant that the use of SupplyAlly by you will not constitute an infringement or misuse of any third party right, including intellectual property rights.
 
 16. No part of SupplyAlly may be reproduced or reused without GovTech’s prior written permission.
 
