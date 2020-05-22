@@ -1,4 +1,5 @@
 ---
+layout: skeleton
 title: Media
 permalink: /media/
 ---
