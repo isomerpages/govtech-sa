@@ -68,6 +68,18 @@ layout: skeleton
   #howsupplyallyworks h2 {
     text-align: center;
   }
+  
+  #collaboration {
+    background: #323232;
+  }
+  
+  #collaboration_title {
+    color: #FFF;
+  }
+  
+  #collaboration_logo {
+    margin: auto;
+  }
 </style>
 
 <section class="bp-hero bg-hero">
@@ -417,17 +429,17 @@ layout: skeleton
   </div>
 </section>
 
-<section class="bp-section">
+<section id="collaboration" class="bp-section">
   <div class="bp-container">
     <div class="row">
       <div class="col is-8 is-offset-2 has-text-centered padding--top--xl">
-        <p class="padding--bottom eyebrow is-uppercase">
+        <p id="collaboration_title" class="padding--bottom eyebrow is-uppercase">
           A collaboration between
         </p>
       </div>
     </div>
     <div class="row has-text-centered margin--top padding--bottom is-hidden-touch">
-      <div class="col helper">
+      <div id="collaboration_logo" class="col is-8 helper">
         <img class="isomer-agency-logo" src="{{site.baseurl}}/images/logo-govtech.png" alt="Government Technolog Agency of Singapore"/>
         <img class="isomer-agency-logo" src="{{site.baseurl}}/images/logo-sndgo.svg" alt="Smart Nation and Digital Government Office"/>
         <img class="isomer-agency-logo" src="{{site.baseurl}}/images/logo-sgunited.svg" alt="SG United"/>
