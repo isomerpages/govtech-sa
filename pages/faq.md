@@ -6,7 +6,7 @@ permalink: /faq/
 ## **General**
 
 ### **How does SupplyAlly work?**
-SupplyAlly helps you track whether a person receiving an item has received it before. Before you issue an item to a recipient, use SupplyAlly to scan their NRIC/FIN barcode on a valid identification document. SupplyAlly will tell you if they had collected that item before.
+SupplyAlly helps you keep track whether a person receiving an item has received it before. Before you issue an item to a recipient, use SupplyAlly to scan their NRIC/FIN barcode on a valid identification document. SupplyAlly will tell you if they had collected that item before.
 
 ## **Setting Up**
 
