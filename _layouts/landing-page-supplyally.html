@@ -73,16 +73,22 @@ layout: skeleton
     background: #323232;
   }
   
-  #collaboration_title {
+  #collaboration_title,
+  #poweredby_title {
     color: #FFF;
   }
   
-  #collaboration_logo {
+  #collaboration_logo,
+  #gds_logo {
     margin: auto;
   }
   
   #collaboration_logo .isomer-agency-logo {
     max-height: 50px;
+  }
+  
+  #gds_logo .isomer-agency-logo {
+    max-height: 120px;
   }
 </style>
 
@@ -470,6 +476,18 @@ layout: skeleton
       </div>
       <div class="col is-one-quarter helper">
         <img class="isomer-agency-logo" src="{{site.baseurl}}/images/logo-sgunited.svg" alt="SG United"/>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col is-8 is-offset-2 has-text-centered padding--top--xl">
+        <p id="poweredby_title" class="padding--bottom eyebrow is-uppercase">
+          Powered By
+        </p>
+      </div>
+    </div>
+    <div class="row has-text-centered">
+      <div id="gds_logo">
+        <img class="isomer-agency-logo" src="{{site.baseurl}}/images/logo-gds.svg" alt="Government Digital Services"/>
       </div>
     </div>
   </div>

@@ -21,8 +21,8 @@ permalink: /media/
   <div class="bp-container padding--top padding--bottom--xl">
     <div class="row is-multiline">
       <div class="col is-one-quarter-widescreen is-one-third-desktop is-half-tablet resource-card-element">
-        <a href="https://www.developer.tech.gov.sg/communities/stack-x-meetups/past-webinars/supporting-the-community-part-1"  target="_blank" class="is-media-card">
-          <div class="media-card-plain bg-media-color-1 padding--lg">
+        <a href="https://www.developer.tech.gov.sg/communities/stack-x-meetups/past-webinars/supporting-the-community-part-1" target="_blank" class="is-media-card">
+          <div class="media-card-plain bg-media-color-2 padding--lg">
             <div>
               <small class="has-text-white padding--bottom">ARTICLE</small>
               <h5 class="has-text-white padding--bottom--lg"><b>Supporting the Community - SupplyAlly (Part 1)</b></h5>
@@ -34,7 +34,20 @@ permalink: /media/
         </a>
       </div>
       <div class="col is-one-quarter-widescreen is-one-third-desktop is-half-tablet resource-card-element">
-        <a href="https://www.tnp.sg/news/singapore/cooked-food-programme-helps-needy-residents-mountbatten"  target="_blank" class="is-media-card">
+        <a href="https://www.straitstimes.com/singapore/all-adult-sporeans-to-get-100-tourism-vouchers-in-december-for-staycations-attractions-and" target="_blank" class="is-media-card">
+          <div class="media-card-plain bg-media-color-1 padding--lg">
+            <div>
+              <small class="has-text-white padding--bottom">ARTICLE</small>
+              <h5 class="has-text-white padding--bottom--lg"><b>Tourism voucher management by SupplyAlly</b></h5>
+            </div>
+            <div class="is-fluid padding--top--md description">
+              <small class="has-text-white">16 SEPTEMBER 2020</small>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div class="col is-one-quarter-widescreen is-one-third-desktop is-half-tablet resource-card-element">
+        <a href="https://www.tnp.sg/news/singapore/cooked-food-programme-helps-needy-residents-mountbatten" target="_blank" class="is-media-card">
           <div class="media-card-plain bg-media-color-2 padding--lg">
             <div>
               <small class="has-text-white padding--bottom">ARTICLE</small>
@@ -60,7 +73,7 @@ permalink: /media/
         </a>
       </div>
       <div class="col is-one-quarter-widescreen is-one-third-desktop is-half-tablet resource-card-element">
-        <a href="https://medium.com/@leekahhow/bishan-north-volunteer-orientation-for-reusable-mask-distribution-816e22447320"  target="_blank" class="is-media-card">
+        <a href="https://medium.com/@leekahhow/bishan-north-volunteer-orientation-for-reusable-mask-distribution-816e22447320" target="_blank" class="is-media-card">
           <div class="media-card-plain bg-media-color-2 padding--lg">
             <div>
               <small class="has-text-white padding--bottom">ARTICLE</small>
