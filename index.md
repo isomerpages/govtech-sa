@@ -5,8 +5,7 @@ description: test test
 permalink: /
 sections:
   - hero:
-      title: SupplyAlly helps you track whether a person receiving an item has
-        received it before.
+      title: SupplyAlly is a centralized distribution system
       subtitle: Enabled citizens to access their fair quota of masks, with flexibility
         to different points and modes of distribution.
       background: /images/hero-banner-supplyally-v2.png
