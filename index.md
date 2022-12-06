@@ -9,8 +9,6 @@ sections:
       subtitle: Enabled citizens to access their fair quota of masks, with flexibility
         to different points and modes of distribution.
       background: /images/hero-banner-supplyally-v2.png
-      button: Download Now
-      url: https://go.gov.sg/SupplyAlly
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
