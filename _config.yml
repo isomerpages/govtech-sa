@@ -3,7 +3,7 @@ url: https://www.supplyally.gov.sg
 favicon: /images/favicon-supplyally.svg
 colors:
   primary-color: "#305367"
-  secondary-color: "#0e8086"
+  secondary-color: "#305367"
   media-colors:
     - title: media-color-one
       color: "#305367"
