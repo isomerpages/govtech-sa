@@ -33,7 +33,7 @@ sections:
         items that improve the lives of Singaporeans.
   - infopic:
       subtitle: A collaboration between
-      image: /images/collaboration-poweredBy-logo.png
+      image: /images/collaboration-poweredBy-logo-v2.png
       alt: Image alt text
 notification: null
 image: /images/isomer-logo.svg
