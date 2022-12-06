@@ -28,9 +28,6 @@ sections:
         of our volunteers and the beneficiary organisations.”
       subtitle: What our partners say
       description: Johann (Executive Director, Engineering Good)
-      button: null
-      url: null
 notification: null
 image: /images/isomer-logo.svg
 ---
-
