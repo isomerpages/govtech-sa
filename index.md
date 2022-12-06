@@ -32,7 +32,7 @@ sections:
       description: We help Whole of Government and organization to manage & distribute
         items that improve the lives of Singaporeans.
   - infopic:
-      image: /images/collaboration-poweredBy-logo-v2.png
+      image: /images/agencies-logo.png
       alt: Image alt text
 notification: null
 image: /images/isomer-logo.svg
