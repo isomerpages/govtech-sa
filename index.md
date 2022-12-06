@@ -20,12 +20,6 @@ sections:
         - title: Notify
           description: Notifies the last collection timestamp.
           url: ""
-  - infobar:
-      title: “Engineering Good is thankful for GovTech's partnership. With SupplyAlly
-        we hope to eliminate duplication in our efforts and optimise the effort
-        of our volunteers and the beneficiary organisations.”
-      subtitle: What our partners say
-      description: Johann (Executive Director, Engineering Good)
   - infopic:
       title: What do we distribute and who we work with?
       description: SupplyAlly collaborated with the following agencies and
@@ -37,6 +31,10 @@ sections:
       title: Why us?
       description: We help Whole of Government and organization to manage & distribute
         items that improve the lives of Singaporeans.
+  - infopic:
+      subtitle: A collaboration between
+      image: /images/collaboration-poweredBy-logo.png
+      alt: Image alt text
 notification: null
 image: /images/isomer-logo.svg
 ---
