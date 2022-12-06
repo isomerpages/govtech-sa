@@ -32,7 +32,6 @@ sections:
       description: We help Whole of Government and organization to manage & distribute
         items that improve the lives of Singaporeans.
   - infopic:
-      subtitle: A collaboration between
       image: /images/collaboration-poweredBy-logo.png
       alt: Image alt text
 notification: null
