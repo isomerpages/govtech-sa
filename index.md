@@ -25,7 +25,7 @@ sections:
       description: SupplyAlly collaborated with these agencies and organization for
         the distribution of TT tokens, ART kits, reusable masks during covid-19,
         food packs and more...
-      image: /images/agencies-logo.png
+      image: /images/workwith-agencies-logo.png
       alt: Agencies-logo
   - infobar:
       title: Why us?
@@ -37,4 +37,3 @@ sections:
 notification: null
 image: /images/isomer-logo.svg
 ---
-
