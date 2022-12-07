@@ -28,7 +28,7 @@ sections:
       image: /images/workwith-agencies-logo.png
       alt: Agencies-logo
   - infobar:
-      title: Why us?
+      title: Why Us?
       description: We help Whole-of-Government and organization to manage & distribute
         items that improve the lives of Singaporeans.
   - infopic:
