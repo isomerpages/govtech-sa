@@ -1,7 +1,7 @@
 ---
 layout: landing-page-supplyally
 title: SupplyAlly
-description: test test
+description: The solution to digitalise your distribution operation.
 permalink: /
 sections:
   - hero:
@@ -37,3 +37,4 @@ sections:
 notification: null
 image: /images/isomer-logo.svg
 ---
+
