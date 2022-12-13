@@ -1,5 +1,5 @@
 ---
-layout: landing-page-supplyally
+layout: homepage
 title: SupplyAlly
 description: The solution to digitalise your distribution operation.
 permalink: /
