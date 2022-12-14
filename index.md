@@ -8,7 +8,7 @@ sections:
       title: "Digitalise your distribution operation. "
       subtitle: SupplyAlly is a centralised distribution system for users to
         coordinate distribution effort since 2020.
-      background: /images/bg.png
+      background: /images/hero-banner-supplyally-7dec22.png
       key_highlights:
         - title: Identify
           description: Identifies a beneficiary (legit or not) before collection.
