@@ -40,6 +40,10 @@ sections:
   - infobar:
       subtitle: POWERED BY
       description: Government Digital Service
+  - infopic:
+      subtitle: A collaboration between
+      image: /images/collaboration-between.png
+      alt: Image alt text
 notification: null
 image: /images/isomer-logo.svg
 ---
