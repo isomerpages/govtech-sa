@@ -5,7 +5,7 @@ description: The solution to digitalise your distribution operation.
 permalink: /
 sections:
   - hero:
-      title: "The solution to digitalise your distribution operation. "
+      title: "Digitalise your distribution operation. "
       subtitle: SupplyAlly is a centralised distribution system for users to
         coordinate distribution effort since 2020.
       background: /images/hero-banner-supplyally-7dec22.png
