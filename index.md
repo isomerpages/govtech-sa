@@ -34,6 +34,9 @@ sections:
   - infopic:
       image: /images/logo-agencies-collaboration_poweredby.png
       alt: Image alt text
+  - infobar:
+      subtitle: A collaboration between
+      description: GovTech Singapore | Smart Nation & Digital Government Office | SG United
 notification: null
 image: /images/isomer-logo.svg
 ---
