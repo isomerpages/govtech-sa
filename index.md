@@ -21,7 +21,7 @@ sections:
           description: Notifies the last collection timestamp.
           url: ""
   - infopic:
-      title: What do we distribute and who we work with?
+      title: Who we work with?
       description: SupplyAlly collaborated with these agencies and organization for
         the distribution of TT tokens, ART kits, reusable masks during covid-19,
         food packs and more...
