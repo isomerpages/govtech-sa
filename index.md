@@ -5,10 +5,10 @@ description: The solution to digitalise your distribution operation.
 permalink: /
 sections:
   - hero:
-      title: "Digitalise your distribution operation. "
+      title: "Digitalise Your Distribution Operation. "
       subtitle: SupplyAlly is a centralised distribution system for users to
         coordinate distribution effort since 2020.
-      background: /images/hero-banner-supplyally-7dec22.png
+      background: /images/hero-banner-sally-14Dec.png
       key_highlights:
         - title: Identify
           description: Identifies a beneficiary (legit or not) before collection.
@@ -21,7 +21,7 @@ sections:
           description: Notifies the last collection timestamp.
           url: ""
   - infopic:
-      title: Who we work with?
+      title: Who We Work With?
       description: SupplyAlly collaborated with these agencies and organization for
         the distribution of TT tokens, ART kits, reusable masks during covid-19,
         food packs and more...
@@ -36,7 +36,7 @@ sections:
       alt: Image alt text
   - infobar:
       subtitle: A collaboration between
-      description: GovTech Singapore | Smart Nation & Digital Government Office | SG United
+      description: GovTech Singapore | Smart Nation & Digital Government Office | SGUnited
   - infobar:
       subtitle: POWERED BY
       description: Government Digital Service
