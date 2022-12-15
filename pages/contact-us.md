@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Govtech
+agency_name: SupplyAlly
 locations:
   - address:
       - 31 Sesame Street
@@ -17,6 +17,10 @@ locations:
         description: ""
     maps_link: ""
     title: Main Office
+contacts:
+  - content:
+      - phone: ""
+      - email: supplyallyhelp@hive.gov.sg
+      - other: ""
+    title: Email
 ---
-### Want to know more about SupplyAlly?
-Write to us at supplyallyhelp@hive.gov.sg and we will get in touch with you!
