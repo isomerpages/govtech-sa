@@ -5,7 +5,7 @@ description: The solution to digitalise your distribution operation.
 permalink: /
 sections:
   - hero:
-      background: /images/hero-banner-with-header-center.png
+      background: /images/hero-banner-agencies-logo.png
       key_highlights:
         - title: Identify
           description: Identifies a beneficiary (legit or not) before collection.
