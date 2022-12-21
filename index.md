@@ -29,6 +29,8 @@ sections:
       title: Why Us?
       description: We help Whole-of-Government and organization to manage & distribute
         items that improve the lives of Singaporeans.
+      url: /contact-us
+      button: Contact us
 notification: null
 image: /images/isomer-logo.svg
 ---
