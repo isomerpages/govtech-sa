@@ -17,7 +17,9 @@ sections:
         - title: Notify
           description: Notifies the last collection timestamp.
           url: ""
-      title: "Digitalise Your  Distribution Operation. "
+      title: Digitalise Your Distribution Operation.
+      subtitle: SupplyAlly is a centralized distribution system for users to
+        coordinate distribution effort since 2020.
   - infopic:
       title: Who We Work With?
       description: SupplyAlly collaborated with these agencies and organization for
