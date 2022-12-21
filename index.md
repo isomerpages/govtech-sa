@@ -19,7 +19,7 @@ sections:
       title: Digitalise Your Distribution Operation.
       subtitle: SupplyAlly is a centralized distribution system for users to
         coordinate distribution effort since 2020.
-      background: /images/hero-banner-sally-14Dec.png
+      background: /images/hero-banner-sally-15Dec.png
   - infopic:
       title: Who We Work With?
       description: SupplyAlly collaborated with these agencies and organization for
