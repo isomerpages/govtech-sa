@@ -5,7 +5,6 @@ description: The solution to digitalise your distribution operation.
 permalink: /
 sections:
   - hero:
-      background: /images/hero-banner-sally-14Dec.png
       key_highlights:
         - title: Identify
           description: Identifies a beneficiary (legit or not) before collection.
@@ -25,7 +24,7 @@ sections:
       description: SupplyAlly collaborated with these agencies and organization for
         the distribution of TT tokens, ART kits, reusable masks during covid-19,
         food packs and more...
-      image: /images/logo-agencies-who-we-work-with.png
+      image: /images/agencies-powered-by-logo.png
       alt: Agencies-logo
   - infobar:
       title: Why Us?
