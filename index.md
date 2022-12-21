@@ -17,8 +17,6 @@ sections:
           description: Notifies the last collection timestamp.
           url: ""
       title: Digitalise your distribution operation.
-      subtitle: SupplyAlly is a centralized distribution system for users to
-        coordinate distribution effort since 2020.
       background: /images/hero-banner-sally-15Dec.png
   - infopic:
       title: Who We Work With?
@@ -29,8 +27,9 @@ sections:
       alt: Agencies-logo
   - infobar:
       title: Why Us?
-      description: We help Whole-of-Government and organization to manage & distribute
-        items that improve the lives of Singaporeans.
+      description: Since 2020, SupplyAlly is the centralised distribution system for
+        Whole-of-Government and organisation to issue items that improve the
+        lives of Singaporeans.
       url: /contact-us
       button: Contact us
 notification: null
