@@ -28,10 +28,6 @@ sections:
       title: Why Us?
       description: We help Whole-of-Government and organization to manage & distribute
         items that improve the lives of Singaporeans.
-  - infobar:
-      subtitle: "A collaboration between "
-      description: GovTech Singapore x Government Digital Services  | Smart Nation &
-        Digital Government Office |  SGUnited
 notification: null
 image: /images/isomer-logo.svg
 ---
