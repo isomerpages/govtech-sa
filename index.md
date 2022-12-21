@@ -5,7 +5,7 @@ description: The solution to digitalise your distribution operation.
 permalink: /
 sections:
   - hero:
-      background: /images/hero-banner-with-header-centralise.png
+      background: /images/hero-banner-agencies-logo.png
       key_highlights:
         - title: Identify
           description: Identifies a beneficiary (legit or not) before collection.
@@ -17,6 +17,7 @@ sections:
         - title: Notify
           description: Notifies the last collection timestamp.
           url: ""
+      title: "Digitalise Your  Distribution Operation. "
   - infopic:
       title: Who We Work With?
       description: SupplyAlly collaborated with these agencies and organization for
