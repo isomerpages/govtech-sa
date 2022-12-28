@@ -33,5 +33,6 @@ sections:
       url: /contact-us
       button: Contact us
 notification: null
-image: /images/isomer-logo.svg
+image: /images/link preview-1200x630.png
 ---
+
