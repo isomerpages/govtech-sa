@@ -19,7 +19,7 @@ sections:
       title: Digitalise your distribution operation.
       background: /images/hero-banner-sally-15Dec.png
   - infopic:
-      title: Who We Work With?
+      title: Who We work with?
       description: SupplyAlly collaborated with these agencies and organization for
         the distribution of TT tokens, ART kits, reusable masks during covid-19,
         food packs and more...
@@ -35,4 +35,3 @@ sections:
 notification: null
 image: /images/link preview-1200x630.png
 ---
-
