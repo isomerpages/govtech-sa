@@ -20,9 +20,9 @@ sections:
       background: /images/hero-banner-sally-15Dec.png
   - infopic:
       title: How it works?
-      description: "Agencies/ organisation enter into SupplyAlly who are eligible and
-        item quantity. Then  distribution via vending machines, SupplyAlly app
-        are tracked. "
+      description: Orgainsations define eligible recipients and maximum items for
+        redemption. Distribution is managed either via the vending machine or
+        the SupplyAlly app.
       alt: Image alt text
   - infopic:
       title: Who we work with?
