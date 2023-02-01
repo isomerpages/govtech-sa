@@ -20,9 +20,9 @@ sections:
       background: /images/hero-banner-sally-15Dec.png
   - infopic:
       title: How it works?
-      description: Orgainsations define eligible recipients and maximum items in
-        system. Distribution is managed either via the vending machine or the
-        SupplyAlly app.
+      description: Orgainsations define eligible recipients and maximum items.
+        Distribution is managed via various channels such as vending machine or
+        the SupplyAlly app.
       alt: Image alt text
   - infopic:
       title: Who we work with?
