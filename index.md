@@ -19,14 +19,14 @@ sections:
       title: Digitalise your distribution operation.
       background: /images/hero-banner-sally-15Dec.png
   - infopic:
-      title: Who We work with?
+      title: Who we work with?
       description: SupplyAlly collaborated with these agencies and organization for
         the distribution of TT tokens, ART kits, reusable masks during covid-19,
         food packs and more...
       image: /images/agencies-logo-centralise.png
       alt: Agencies-logo
   - infobar:
-      title: Why Us?
+      title: Why us?
       description: Since 2020, SupplyAlly is the centralised distribution system for
         Whole-of-Government and organisation to issue items that improve the
         lives of Singaporeans.
