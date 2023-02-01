@@ -23,7 +23,6 @@ sections:
       description: "Agencies/ organisation enter into SupplyAlly who are eligible and
         item quantity. Then  distribution via vending machines, SupplyAlly app
         are tracked. "
-      button: Button Text
       alt: Image alt text
   - infopic:
       title: Who we work with?
