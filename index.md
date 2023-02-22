@@ -23,7 +23,7 @@ sections:
       description: Orgainsations define eligible recipients and maximum items in
         system. Distribution is managed via various channels such as vending
         machine or SupplyAlly app.
-      alt: Image alt text
+      alt: Image-how-it-works
       image: /images/how-it-works 2.png
   - infopic:
       title: Who we work with?
