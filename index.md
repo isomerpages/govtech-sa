@@ -24,6 +24,7 @@ sections:
         system. Distribution is managed via various channels such as vending
         machine or SupplyAlly app.
       alt: Image alt text
+      image: /images/how-it-works.png
   - infopic:
       title: Who we work with?
       description: SupplyAlly collaborated with these agencies and organization for
