@@ -35,7 +35,7 @@ sections:
   - infobar:
       title: Why us?
       description: Since 2020, SupplyAlly is the centralised distribution system for
-        Whole-of-Government and organisation to issue items that improve the
+        Whole-of-Government and organisations to issue items that improve the
         lives of Singaporeans.
       url: /contact-us
       button: Contact us
