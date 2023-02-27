@@ -1,11 +1,4 @@
 contact_us: /contact-us
-show_reach: 
-feedback: 
-faq: /faq
+show_reach: false
 copyright_agency: Government Technology Agency
-social_media:
-    facebook: 
-    twitter: 
-    youtube: 
-    instagram: 
-    linkedin: 
+social_media: {}

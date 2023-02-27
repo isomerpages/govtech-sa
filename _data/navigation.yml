@@ -1,10 +1,8 @@
 logo: /images/logo-supplyally.png
 links:
-  - title: How SupplyAlly Works
-    url: /#howsupplyallyworks
-  - title: Features of SupplyAlly
-    url: /features
-  - title: FAQ
-    url: /faq
+  - title: About
+    url: /about
+  - title: FAQS
+    url: /faqs
   - title: Contact Us
-    url: /contact-us
+    url: /contact-us/

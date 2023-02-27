@@ -1,12 +1,20 @@
 ---
+layout: contact_us
 title: Contact Us
-permalink: /contact-us
+permalink: /contact-us/
+agency_name: SupplyAlly
+locations:
+  - address:
+      - 1 Fusionopolis View
+      - "#08-01"
+      - Singapore 138577
+    operating_hours: []
+    maps_link: ""
+    title: Office
+contacts:
+  - content:
+      - phone: ""
+      - email: supplyallyhelp@hive.gov.sg
+      - other: ""
+    title: Email
 ---
-
-### **Want to know more about SupplyAlly?**
-
-Write to us at <supplyallyhelp@hive.gov.sg> and we will get in touch with you!
-
-### **We are hiring!**
-
-For career opportunities, email us at <gds_sally_dev@tech.gov.sg>
