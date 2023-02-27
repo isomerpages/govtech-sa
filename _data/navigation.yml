@@ -1,8 +1,8 @@
 logo: /images/logo-supplyally.png
 links:
+  - title: About
+    url: /about
   - title: Contact Us
     url: /contact-us
   - title: FAQS
     url: /faqs
-  - title: About
-    url: /about
