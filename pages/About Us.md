@@ -3,16 +3,13 @@ title: About Us
 permalink: /About/
 description: ""
 ---
-
-
-
 ### **Open source**
 
 We believe distribution efforts are not unique to Singapore and could be reused by other countries. For that reason we opensource our code to allow other countries to bootstrap from our work.
 
 ### **Seamless user journey**
 
-From logging in to the scanning of NRICs, the process is fast and straightforward. By creating a low barrier to entry, volunteers can get up to speed quickly with little guidance.
+From logging in to the scanning of identification, the process is fast and straightforward. By creating a low barrier to entry, volunteers can get up to speed quickly with little guidance.
 
 ### **Zero-knowledge**
 
