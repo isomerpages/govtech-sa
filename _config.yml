@@ -43,8 +43,8 @@ paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 description: The solution to digitalise your distribution operation.
-staging: https://staging.dtztuv7dpxd9n.amplifyapp.com/
-prod: https://master.dtztuv7dpxd9n.amplifyapp.com/
+staging: https://staging.d39862ccgbw1iw.amplifyapp.com/
+prod: https://master.d39862ccgbw1iw.amplifyapp.com/
 plugins:
   - jekyll-feed
   - jekyll-assets
