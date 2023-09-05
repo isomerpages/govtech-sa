@@ -43,8 +43,8 @@ paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 description: The solution to digitalise your distribution operation.
-staging: https://govtech-sa-staging.netlify.app
-prod: https://govtech-sa-prod.netlify.app
+staging: https://staging.dtztuv7dpxd9n.amplifyapp.com/
+prod: https://master.dtztuv7dpxd9n.amplifyapp.com/
 plugins:
   - jekyll-feed
   - jekyll-assets
