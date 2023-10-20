@@ -1,6 +1,6 @@
-title: SupplyAlly
+title: GovSupply
 url: https://www.supplyally.gov.sg
-favicon: /images/favicon-supplyally.svg
+favicon: /images/favicon-govsupply.png
 colors:
   primary-color: "#305367"
   secondary-color: "#305367"
@@ -57,3 +57,4 @@ facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
 resources_name: supplyally
+google_analytics_ga4: ""
