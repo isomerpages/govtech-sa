@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: SupplyAlly
+title: GovSupply
 description: The solution to digitalise your distribution operation.
 permalink: /
 sections:
