@@ -51,7 +51,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-shareicon: /images/link preview-1200x630.png
+shareicon: /images/link-preview-1200x630.png
 is_government: true
 facebook-pixel: ""
 google_analytics: ""
