@@ -40,5 +40,5 @@ sections:
       url: /contact-us
       button: Contact us
 notification: null
-image: /images/link preview-1200x630.png
+image: /images/link-preview-1200x630.png
 ---
