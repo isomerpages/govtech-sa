@@ -39,6 +39,6 @@ sections:
         lives of Singaporeans.
       url: /contact-us
       button: Contact us
-notification: null
+notification: ""
 image: /images/link-preview-1200x630.png
 ---
