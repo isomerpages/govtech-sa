@@ -3,6 +3,15 @@ title: FAQs
 permalink: /faqs/
 description: ""
 ---
+### **What is the difference between SupplyAlly and GovSupply?**
+SupplyAlly (SAlly) changed its name to GovSupply from 01 Nov 2023, part of a strategic shift to incorporate all distribution related products into this offering suite called GovDistribute. 
+
+
+
+### **Why is GovSupply useful for my distribution?**
+GovSupply helps you track whether a person receiving an item has received it before. Before you issue an item to a recipient, use GovSupply to scan the barcode on their valid identification document. GovSupply will tell you if they had collected that item previously. 
+
+
 ### **Where to download GovSupply App?**
 You can download the app from the [Android Play Store](https://play.google.com/store/apps/details?id=sg.gov.tech.musket&hl=en) or [Apple App Store](https://apps.apple.com/sg/app/supplyally/id1497126533). 
 
@@ -36,4 +45,17 @@ If you encounter an issue, try closing the app and opening it again. If it still
 * Location where scanning of identification took place
 * First 13 characters of your login QR codes that do not work. This can be found at the left of the QR code (abcdef12-3456…)
 
-You will be able to enter the recorded details into GovSupply manually later on. If the problem persists, please submit a request on Zendesk or email to [supplyallyhelp@hive.gov.sg](mailto:supplyallyhelp@hive.gov.sg)
+You will be able to enter the recorded details into GovSupply manually later on. If the problem persists, please email to [govsupply_support@tech.gov.sg](mailto:govsupply_support@tech.gov.sg)
+
+
+
+### **My screen looks different from my colleagues. What should I do?**
+Do not checkout for that transaction. 
+Your app might not be updated. 
+1. Please close the app and remove it from background. 
+2. Restart app and press on "update" on the yellow banner.
+3. Once your app is updated, perform that transaction again. 
+4. If you still noticed the difference, please logout and rescan your QR code to login again. 
+
+
+
