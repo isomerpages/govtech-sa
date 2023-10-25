@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: SupplyAlly
+agency_name: GovSupply
 locations:
   - address:
       - 1 Fusionopolis View
@@ -17,4 +17,5 @@ contacts:
       - email: supplyallyhelp@hive.gov.sg
       - other: ""
     title: Email
+feedback: ""
 ---
