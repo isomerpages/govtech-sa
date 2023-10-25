@@ -14,7 +14,7 @@ locations:
 contacts:
   - content:
       - phone: ""
-      - email: supplyallyhelp@hive.gov.sg
+      - email: govsupply_support@tech.gov.sg
       - other: ""
     title: Email
 feedback: ""
