@@ -55,7 +55,4 @@ Your app might not be updated.
 1. Please close the app and remove it from background. 
 2. Restart app and press on "update" on the yellow banner.
 3. Once your app is updated, perform that transaction again. 
-4. If you still noticed the difference, please logout and rescan your QR code to login again. 
-
-
-
+4. If you still noticed the difference, please logout and rescan your QR code to login again.
