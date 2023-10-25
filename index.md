@@ -22,19 +22,19 @@ sections:
       title: How it works?
       description: Organisations define eligible recipients and maximum items in
         system. Distribution is managed via various channels such as vending
-        machine or SupplyAlly app.
+        machine or GovSupply app.
       alt: Image-how-it-works
-      image: /images/how-it-works-primary.png
+      image: /images/how-it-works-01.png
   - infopic:
       title: Who we work with?
-      description: SupplyAlly collaborated with these agencies and organization for
-        the distribution of TT tokens, ART kits, reusable masks during covid-19,
+      description: GovSupply collaborated with these agencies and organization for the
+        distribution of TT tokens, ART kits, reusable masks during covid-19,
         food packs and more...
       image: /images/agencies-logo-centralise.png
       alt: Agencies-logo
   - infobar:
       title: Why us?
-      description: Since 2020, SupplyAlly is the centralised distribution system for
+      description: Since 2020, GovSupply is the centralised distribution system for
         Whole-of-Government and organisations to issue items that improve the
         lives of Singaporeans.
       url: /contact-us
