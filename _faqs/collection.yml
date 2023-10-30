@@ -2,5 +2,5 @@ collections:
   faqs:
     output: true
     order:
-      - FAQs for current users.md
       - FAQs about GovSupply.md
+      - FAQs for current users.md
