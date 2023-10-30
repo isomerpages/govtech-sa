@@ -1,6 +1,6 @@
-title: SupplyAlly
+title: GovSupply
 url: https://www.supplyally.gov.sg
-favicon: /images/favicon-supplyally.svg
+favicon: /images/favicon-govsupply.png
 colors:
   primary-color: "#305367"
   secondary-color: "#305367"
@@ -43,17 +43,18 @@ paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 description: The solution to digitalise your distribution operation.
-staging: https://govtech-sa-staging.netlify.app
-prod: https://govtech-sa-prod.netlify.app
+staging: https://staging.d39862ccgbw1iw.amplifyapp.com/
+prod: https://master.d39862ccgbw1iw.amplifyapp.com/
 plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-shareicon: /images/link preview-1200x630.png
+shareicon: /images/link-preview-1200x630.png
 is_government: true
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
 resources_name: supplyally
+google_analytics_ga4: ""

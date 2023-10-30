@@ -1,10 +1,10 @@
-logo: /images/logo-supplyally.png
+logo: /images/logo-govsupply.png
 links:
   - title: Home
     url: /
   - title: About
     url: /about
-  - title: FAQS
-    url: /faqs
+  - title: FAQs
+    collection: faqs
   - title: Contact Us
     url: /contact-us/
