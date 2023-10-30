@@ -4,7 +4,7 @@ links:
     url: /
   - title: About
     url: /about
-  - title: FAQS
-    url: /faqs
+  - title: FAQs
+    collection: faqs
   - title: Contact Us
     url: /contact-us/
