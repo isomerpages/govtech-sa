@@ -1,7 +1,8 @@
 ---
 title: Support Related
-permalink: /faqs/suppportrelated/
+permalink: /faqs/supportrelated/
 description: ""
+variant: tiptap
 ---
 ### **Where to download GovSupply App?**
 You can download the app from the [Android Play Store](https://play.google.com/store/apps/details?id=sg.gov.tech.musket&hl=en) or [Apple App Store](https://apps.apple.com/sg/app/supplyally/id1497126533). 
