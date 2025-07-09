@@ -1,0 +1,60 @@
+title: GovSupply
+url: https://www.supplyally.gov.sg
+favicon: /images/favicon-govsupply.png
+colors:
+  primary-color: "#305367"
+  secondary-color: "#305367"
+  media-colors:
+    - title: media-color-one
+      color: "#305367"
+    - title: media-color-two
+      color: "#305367"
+    - title: media-color-three
+      color: "#305367"
+    - title: media-color-four
+      color: "#305367"
+    - title: media-color-five
+      color: "#305367"
+permalink: none
+baseurl: ""
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+description: The solution to digitalise your distribution operation.
+staging: https://staging.d39862ccgbw1iw.amplifyapp.com/
+prod: https://master.d39862ccgbw1iw.amplifyapp.com/
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+shareicon: /images/link-preview-1200x630.png
+is_government: true
+facebook-pixel: ""
+google_analytics: ""
+linkedin-insights: ""
+resources_name: supplyally
+google_analytics_ga4: ""

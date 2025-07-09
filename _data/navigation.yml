@@ -1,0 +1,10 @@
+logo: /images/logo-govsupply.png
+links:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: FAQs
+    collection: faqs
+  - title: Contact Us
+    url: /contact-us/
