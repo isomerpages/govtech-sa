@@ -1,6 +1,11 @@
 ---
 title: Privacy Statement
 permalink: /privacy/
+variant: tiptap
+description: Read the official GovSupply Privacy Statement. Learn how this
+  Government Agency service collects, uses, and safeguards your personal data,
+  including our cookie policy.
+image: /images/link-preview-1200x630.png
 ---
 ### **Privacy Statement**
 

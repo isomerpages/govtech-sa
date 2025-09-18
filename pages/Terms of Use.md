@@ -1,6 +1,11 @@
 ---
 title: Terms of Use
 permalink: /terms-of-use/
+variant: tiptap
+description: Review the official GovSupply Terms of Use. This legal agreement
+  governs your rights, responsibilities, and conditions for using the service
+  provided by GovTech.
+image: /images/link-preview-1200x630.png
 ---
 ### **General**
 

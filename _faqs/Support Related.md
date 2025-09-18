@@ -1,8 +1,10 @@
 ---
 title: Support Related
 permalink: /faqs/supportrelated/
-description: ""
+description: Need help with the GovSupply App? Find quick solutions for login
+  issues, QR code errors, and troubleshooting steps in our support FAQ.
 variant: tiptap
+image: /images/link-preview-1200x630.png
 ---
 <h3><strong>How do I start using GovSupply App?</strong></h3>
 <p>You should have a unique login QR code issued to you by your appointed

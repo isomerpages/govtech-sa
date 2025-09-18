@@ -1,9 +1,12 @@
 ---
 title: About Us
 permalink: /about/
-description: ""
+description: Discover the principles behind GovSupply. Learn about our
+  commitment to creating secure, open-source, and easy-to-use technology for
+  seamless public distribution.
+variant: tiptap
+image: /images/link-preview-1200x630.png
 ---
-
 ### **Open source**
 
 We believe distribution efforts are not unique to Singapore and could be reused by other countries. For that reason we opensource our code to allow other countries to bootstrap from our work.

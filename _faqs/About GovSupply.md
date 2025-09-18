@@ -1,7 +1,11 @@
 ---
 title: About GovSupply
 permalink: /faqs/aboutgovsupply/
-description: ""
+description: Find answers to common questions about GovSupply. Learn about its
+  key features, benefits for your distribution, and how it differs from
+  SupplyAlly.
+variant: tiptap
+image: /images/link-preview-1200x630.png
 ---
 ### **What is the difference between SupplyAlly and GovSupply?**
 SupplyAlly (SAlly) changed its name to GovSupply from 01 Nov 2023, part of a strategic shift to incorporate all distribution related products into this offering suite called GovDistribute. 
