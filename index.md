@@ -17,7 +17,7 @@ sections:
           description: Notifies the last collection timestamp.
           url: ""
       title: Digitalise your distribution operation.
-      background: /images/hero-banner.png
+      background: /images/hero_banner.png
   - infopic:
       title: How it works?
       description: Organisations define eligible recipients and maximum items in
