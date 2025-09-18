@@ -23,7 +23,7 @@ sections:
       description: Organisations define eligible recipients and maximum items in
         system. Distribution is managed via various channels such as vending
         machine or GovSupply app.
-      alt: Image-how-it-works
+      alt: web app and admin portal
       image: /images/how-it-works-01.png
   - infopic:
       title: Who we work with?
@@ -31,7 +31,7 @@ sections:
         distribution of TT tokens, ART kits, reusable masks during covid-19,
         food packs and more...
       image: /images/agencies-logo-centralise.png
-      alt: Agencies-logo
+      alt: Logo of agencies collaborated
   - infobar:
       title: Why us?
       description: Since 2020, GovSupply is the centralised distribution system for
